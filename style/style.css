@@ -16,7 +16,12 @@
   border: none;
   border-radius: 5px;
 }
-
+.btn:hover{
+  background-color: #F95555;
+}
+.banner-btn:hover{
+  background-color: rgb(245, 241, 8);
+}
 /* header-style */
  nav {
     background-color: #FFFF;
@@ -83,7 +88,7 @@ nav .menu a{
   color: #FFFFFF;
   margin-bottom: 32px;
 }
-.bt{
+.my-btn{
   background-color: transparent;
   padding: 16px 12px;
   border: 1px solid white;
@@ -92,6 +97,9 @@ nav .menu a{
   color: #FFFFFF;
   border-radius: 5px;
   margin-left: 10px;
+}
+.my-btn:hover{
+  background-color: blue;
 }
 /* card-heading */
 #card-section{
