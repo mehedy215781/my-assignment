@@ -138,3 +138,38 @@ nav .menu a{
   font-size: 16px;
   color: #627382;
 }
+/* soulti-style */
+#solution{
+  display: flex;
+  margin: 120px;
+  gap: 60px;
+}
+#solution .solution-content{
+  padding: 102px 0;
+  justify-content: space-between;
+}
+#solution .solution-content p{
+  font-size: 16px;
+  font-weight: 500px;
+  color: #469165;
+  margin-bottom: 16px;
+}
+#solution .solution-content h2{
+  font-size: 48px;
+  color: #001931;
+  margin-bottom: 16px;
+}
+#solution .solution-content .text{
+  font-size: 16px;
+  line-height: 20px;
+  color: #627382;
+  margin-bottom: 40px;
+}
+#solution .solution-content .img-icon p{
+  font-size: 16px;
+  color:#001931;
+  line-height: 20px;
+}
+#solution .solution-content .img-icon p i{
+  color: #30B868;
+}
