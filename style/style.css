@@ -40,3 +40,57 @@ nav .menu a{
   text-decoration: none;
   color: #000000;
 }
+/* banner-section */
+#banner{
+  text-align: center; 
+  background:url("/image/hero-bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width:100%;
+  height:674px;
+  padding:115px 120px 179px 120px;
+
+}
+#banner .banner-content button{
+  padding: 10px 12px 10px 20px;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 15px;
+}
+#banner .banner-content button p{
+  font-size: 16px;
+  font-weight: 500px;
+  color: #469165;
+}
+#banner .banner-content button p i{
+  color: #469165;
+  margin-right: 10px;
+}
+#banner .banner-heading h1{
+    font-size: 72px;
+    font-weight: 700px;
+    color:#FFFFFF;
+}
+#banner .banner-heading h2{
+  font-size: 79px;
+  font-weight: 600px;
+  color: #30B868;
+  margin-bottom: 16px;
+}
+#banner .banner-heading  p{
+  font-size: 18px;
+  line-height: 24px;
+  color: #FFFFFF;
+  margin-bottom: 32px;
+}
+.bt{
+  background-color: transparent;
+  padding: 16px 12px;
+  border: 1px solid white;
+  font-size: 16px;
+  font-weight: 600px;
+  color: #FFFFFF;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
