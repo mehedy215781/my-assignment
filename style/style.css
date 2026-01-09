@@ -173,3 +173,54 @@ nav .menu a{
 #solution .solution-content .img-icon p i{
   color: #30B868;
 }
+/* section-style */
+#challenge-section{
+  text-align: center;
+  padding: 80px 0 192px 0;
+  background-color: #F7F6F2;
+  margin: 2px 120px 120px 120px
+}
+#challenge-section h2{
+  font-size: 40px;
+  color: #001931;
+  margin-bottom: 16px;
+}
+#challenge-section p{
+  font-size: 16px;
+  line-height: 24px;
+  color: #627382;
+  margin-bottom: 24px;
+}
+#challenge-section i{
+  font-size: 5px;
+}
+#footer-section{
+  background-color: #050a15;
+  padding: 120px 120px 40px 120px;
+  color: white;
+}
+.footer-container{
+  width: 85%;
+  margin:  0 auto;
+}
+.footer-top{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 80px;
+}
+
+.footer-icon p{
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+.footer-icon i{
+ margin-right:6px;
+}
+.footer-bottom{
+  text-align: center;
+  
+}
+.footer-bottom p{
+  font-size: 16px;
+  color:#FAFAFA;
+}
