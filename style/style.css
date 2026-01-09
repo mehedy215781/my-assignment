@@ -43,7 +43,7 @@ nav .menu a{
 /* banner-section */
 #banner{
   text-align: center; 
-  background:url("/image/hero-bg.png");
+  background:url("../image/hero-bg.png");
   background-size: cover;
   background-repeat: no-repeat;
   width:100%;
